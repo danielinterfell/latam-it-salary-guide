@@ -1,0 +1,244 @@
+role_id,role_en,role_es,family_en,family_es,seniority,latam_market_usd_month_min,latam_market_usd_month_max,us_market_c1_english_usd_month_min,us_market_c1_english_usd_month_max,edition,source
+frontend,"Frontend Developer","Desarrollador frontend","Software Engineering","Ingeniería de software",Junior,1250,1650,1650,1900,2027,https://www.interfell.com/en/salary-guide-latinamerica
+frontend,"Frontend Developer","Desarrollador frontend","Software Engineering","Ingeniería de software",Mid-level,1800,3100,2350,3550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+frontend,"Frontend Developer","Desarrollador frontend","Software Engineering","Ingeniería de software",Senior,2850,5200,3700,6000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+backend,"Backend Developer","Desarrollador backend","Software Engineering","Ingeniería de software",Junior,1450,1850,1900,2150,2027,https://www.interfell.com/en/salary-guide-latinamerica
+backend,"Backend Developer","Desarrollador backend","Software Engineering","Ingeniería de software",Mid-level,2300,3650,3000,4200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+backend,"Backend Developer","Desarrollador backend","Software Engineering","Ingeniería de software",Senior,3100,5700,4050,6550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+fullstack,"Full Stack Developer","Desarrollador full stack","Software Engineering","Ingeniería de software",Junior,1650,2100,2150,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+fullstack,"Full Stack Developer","Desarrollador full stack","Software Engineering","Ingeniería de software",Mid-level,2600,3900,3400,4500,2027,https://www.interfell.com/en/salary-guide-latinamerica
+fullstack,"Full Stack Developer","Desarrollador full stack","Software Engineering","Ingeniería de software",Senior,3400,5700,4400,6550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+nocode,"No-Code Developer","Desarrollador no-code","Software Engineering","Ingeniería de software",Junior,1050,1800,1350,2050,2027,https://www.interfell.com/en/salary-guide-latinamerica
+nocode,"No-Code Developer","Desarrollador no-code","Software Engineering","Ingeniería de software",Mid-level,1800,2850,2350,3300,2027,https://www.interfell.com/en/salary-guide-latinamerica
+nocode,"No-Code Developer","Desarrollador no-code","Software Engineering","Ingeniería de software",Senior,2600,4400,3400,5050,2027,https://www.interfell.com/en/salary-guide-latinamerica
+mobile,"Mobile Developer","Desarrollador mobile","Software Engineering","Ingeniería de software",Junior,1650,2100,2150,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+mobile,"Mobile Developer","Desarrollador mobile","Software Engineering","Ingeniería de software",Mid-level,2600,3900,3400,4500,2027,https://www.interfell.com/en/salary-guide-latinamerica
+mobile,"Mobile Developer","Desarrollador mobile","Software Engineering","Ingeniería de software",Senior,3400,5700,4400,6550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+api,"API Engineer","Desarrollador de APIs","Software Engineering","Ingeniería de software",Junior,1550,2100,2000,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+api,"API Engineer","Desarrollador de APIs","Software Engineering","Ingeniería de software",Mid-level,2350,3650,3050,4200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+api,"API Engineer","Desarrollador de APIs","Software Engineering","Ingeniería de software",Senior,3100,5200,4050,6000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+web3,"Blockchain / Web3 Developer","Desarrollador blockchain","Software Engineering","Ingeniería de software",Junior,1550,2350,2000,2700,2027,https://www.interfell.com/en/salary-guide-latinamerica
+web3,"Blockchain / Web3 Developer","Desarrollador blockchain","Software Engineering","Ingeniería de software",Mid-level,2600,4950,3400,5700,2027,https://www.interfell.com/en/salary-guide-latinamerica
+web3,"Blockchain / Web3 Developer","Desarrollador blockchain","Software Engineering","Ingeniería de software",Senior,3650,5450,4750,6250,2027,https://www.interfell.com/en/salary-guide-latinamerica
+swarch,"Software Architect","Arquitecto de software","Software Engineering","Ingeniería de software",Junior,2100,2850,2750,3300,2027,https://www.interfell.com/en/salary-guide-latinamerica
+swarch,"Software Architect","Arquitecto de software","Software Engineering","Ingeniería de software",Mid-level,3650,4700,4750,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+swarch,"Software Architect","Arquitecto de software","Software Engineering","Ingeniería de software",Senior,4700,6250,6100,7200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+solarch,"Solutions Architect","Arquitecto de soluciones","Software Engineering","Ingeniería de software",Junior,2100,2850,2750,3300,2027,https://www.interfell.com/en/salary-guide-latinamerica
+solarch,"Solutions Architect","Arquitecto de soluciones","Software Engineering","Ingeniería de software",Mid-level,3400,4700,4400,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+solarch,"Solutions Architect","Arquitecto de soluciones","Software Engineering","Ingeniería de software",Senior,4150,5700,5400,6550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+engmgr,"Engineering Manager","Engineering Manager","Software Engineering","Ingeniería de software",Junior,1850,2600,2400,3000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+engmgr,"Engineering Manager","Engineering Manager","Software Engineering","Ingeniería de software",Mid-level,2850,4700,3700,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+engmgr,"Engineering Manager","Engineering Manager","Software Engineering","Ingeniería de software",Senior,4150,6250,5400,7200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+dataanalyst,"Data Analyst","Analista de datos","Data & AI","Datos e IA",Junior,1250,2100,1650,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+dataanalyst,"Data Analyst","Analista de datos","Data & AI","Datos e IA",Mid-level,1650,3100,2150,3550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+dataanalyst,"Data Analyst","Analista de datos","Data & AI","Datos e IA",Senior,2600,3900,3400,4500,2027,https://www.interfell.com/en/salary-guide-latinamerica
+bi,"BI Analyst / Developer","Analista BI","Data & AI","Datos e IA",Junior,1250,1800,1650,2050,2027,https://www.interfell.com/en/salary-guide-latinamerica
+bi,"BI Analyst / Developer","Analista BI","Data & AI","Datos e IA",Mid-level,2100,2850,2750,3300,2027,https://www.interfell.com/en/salary-guide-latinamerica
+bi,"BI Analyst / Developer","Analista BI","Data & AI","Datos e IA",Senior,3100,4400,4050,5050,2027,https://www.interfell.com/en/salary-guide-latinamerica
+prodanalyst,"Product Analyst","Product Analyst","Data & AI","Datos e IA",Junior,1250,1800,1650,2050,2027,https://www.interfell.com/en/salary-guide-latinamerica
+prodanalyst,"Product Analyst","Product Analyst","Data & AI","Datos e IA",Mid-level,1650,2600,2150,3000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+prodanalyst,"Product Analyst","Product Analyst","Data & AI","Datos e IA",Senior,2600,4150,3400,4750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+analyticseng,"Analytics Engineer","Analytics Engineer","Data & AI","Datos e IA",Junior,1450,2100,1900,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+analyticseng,"Analytics Engineer","Analytics Engineer","Data & AI","Datos e IA",Mid-level,2600,3650,3400,4200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+analyticseng,"Analytics Engineer","Analytics Engineer","Data & AI","Datos e IA",Senior,3650,5200,4750,6000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+dataeng,"Data Engineer","Data Engineer","Data & AI","Datos e IA",Junior,1550,2100,2000,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+dataeng,"Data Engineer","Data Engineer","Data & AI","Datos e IA",Mid-level,2600,3900,3400,4500,2027,https://www.interfell.com/en/salary-guide-latinamerica
+dataeng,"Data Engineer","Data Engineer","Data & AI","Datos e IA",Senior,3650,6250,4750,7200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+bigdata,"Big Data Engineer","Big Data Engineer","Data & AI","Datos e IA",Junior,1550,2100,2000,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+bigdata,"Big Data Engineer","Big Data Engineer","Data & AI","Datos e IA",Mid-level,2600,3900,3400,4500,2027,https://www.interfell.com/en/salary-guide-latinamerica
+bigdata,"Big Data Engineer","Big Data Engineer","Data & AI","Datos e IA",Senior,3650,5700,4750,6550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+dataquality,"Data Quality Engineer","Data Quality Engineer","Data & AI","Datos e IA",Junior,1550,2100,2000,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+dataquality,"Data Quality Engineer","Data Quality Engineer","Data & AI","Datos e IA",Mid-level,2350,3900,3050,4500,2027,https://www.interfell.com/en/salary-guide-latinamerica
+dataquality,"Data Quality Engineer","Data Quality Engineer","Data & AI","Datos e IA",Senior,3400,5700,4400,6550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+datascientist,"Data Scientist","Data Scientist","Data & AI","Datos e IA",Junior,1550,2100,2000,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+datascientist,"Data Scientist","Data Scientist","Data & AI","Datos e IA",Mid-level,2600,4150,3400,4750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+datascientist,"Data Scientist","Data Scientist","Data & AI","Datos e IA",Senior,3650,5200,4750,6000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+mleng,"Machine Learning Engineer","Machine Learning Engineer","Data & AI","Datos e IA",Junior,1850,2600,2400,3000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+mleng,"Machine Learning Engineer","Machine Learning Engineer","Data & AI","Datos e IA",Mid-level,2850,4400,3700,5050,2027,https://www.interfell.com/en/salary-guide-latinamerica
+mleng,"Machine Learning Engineer","Machine Learning Engineer","Data & AI","Datos e IA",Senior,4150,6250,5400,7200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+aieng,"AI Engineer","AI engineer","Data & AI","Datos e IA",Junior,2100,2850,2750,3300,2027,https://www.interfell.com/en/salary-guide-latinamerica
+aieng,"AI Engineer","AI engineer","Data & AI","Datos e IA",Mid-level,3100,4700,4050,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+aieng,"AI Engineer","AI engineer","Data & AI","Datos e IA",Senior,4150,6750,5400,7750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+nlp,"NLP Engineer","NLP Engineer","Data & AI","Datos e IA",Junior,1850,2600,2400,3000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+nlp,"NLP Engineer","NLP Engineer","Data & AI","Datos e IA",Mid-level,2600,4400,3400,5050,2027,https://www.interfell.com/en/salary-guide-latinamerica
+nlp,"NLP Engineer","NLP Engineer","Data & AI","Datos e IA",Senior,3650,6250,4750,7200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+cv,"Computer Vision Engineer","Computer Vision Engineer","Data & AI","Datos e IA",Junior,1800,2350,2350,2700,2027,https://www.interfell.com/en/salary-guide-latinamerica
+cv,"Computer Vision Engineer","Computer Vision Engineer","Data & AI","Datos e IA",Mid-level,2850,4150,3700,4750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+cv,"Computer Vision Engineer","Computer Vision Engineer","Data & AI","Datos e IA",Senior,3650,6250,4750,7200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+mlops,"MLOps Engineer","MLOps Engineer","Data & AI","Datos e IA",Junior,2100,2850,2750,3300,2027,https://www.interfell.com/en/salary-guide-latinamerica
+mlops,"MLOps Engineer","MLOps Engineer","Data & AI","Datos e IA",Mid-level,3100,4700,4050,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+mlops,"MLOps Engineer","MLOps Engineer","Data & AI","Datos e IA",Senior,4150,6750,5400,7750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+dataarch,"Data Architect","Arquitecto de datos","Data & AI","Datos e IA",Junior,2100,2600,2750,3000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+dataarch,"Data Architect","Arquitecto de datos","Data & AI","Datos e IA",Mid-level,2850,4700,3700,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+dataarch,"Data Architect","Arquitecto de datos","Data & AI","Datos e IA",Senior,3900,6250,5050,7200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+itsupport,"IT Support / Help Desk Analyst","Técnico de soporte IT","Cloud & DevOps","Cloud, infraestructura y DevOps",Junior,1050,1650,1350,1900,2027,https://www.interfell.com/en/salary-guide-latinamerica
+itsupport,"IT Support / Help Desk Analyst","Técnico de soporte IT","Cloud & DevOps","Cloud, infraestructura y DevOps",Mid-level,1550,2600,2000,3000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+itsupport,"IT Support / Help Desk Analyst","Técnico de soporte IT","Cloud & DevOps","Cloud, infraestructura y DevOps",Senior,2600,3400,3400,3900,2027,https://www.interfell.com/en/salary-guide-latinamerica
+techsupport,"Technical Support Engineer","Ingeniero de soporte técnico","Cloud & DevOps","Cloud, infraestructura y DevOps",Junior,1450,2100,1900,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+techsupport,"Technical Support Engineer","Ingeniero de soporte técnico","Cloud & DevOps","Cloud, infraestructura y DevOps",Mid-level,2100,3100,2750,3550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+techsupport,"Technical Support Engineer","Ingeniero de soporte técnico","Cloud & DevOps","Cloud, infraestructura y DevOps",Senior,3100,4150,4050,4750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+sysadmin,"Systems Administrator","Administrador de sistemas","Cloud & DevOps","Cloud, infraestructura y DevOps",Junior,1250,1850,1650,2150,2027,https://www.interfell.com/en/salary-guide-latinamerica
+sysadmin,"Systems Administrator","Administrador de sistemas","Cloud & DevOps","Cloud, infraestructura y DevOps",Mid-level,2100,3400,2750,3900,2027,https://www.interfell.com/en/salary-guide-latinamerica
+sysadmin,"Systems Administrator","Administrador de sistemas","Cloud & DevOps","Cloud, infraestructura y DevOps",Senior,3100,4700,4050,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+dba,"Database Administrator (DBA)","Administrador de bases de datos","Cloud & DevOps","Cloud, infraestructura y DevOps",Junior,1250,2100,1650,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+dba,"Database Administrator (DBA)","Administrador de bases de datos","Cloud & DevOps","Cloud, infraestructura y DevOps",Mid-level,2100,3100,2750,3550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+dba,"Database Administrator (DBA)","Administrador de bases de datos","Cloud & DevOps","Cloud, infraestructura y DevOps",Senior,3100,4150,4050,4750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+sysint,"Systems Integration Engineer","Ingeniero de integraciones","Cloud & DevOps","Cloud, infraestructura y DevOps",Junior,1650,2100,2150,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+sysint,"Systems Integration Engineer","Ingeniero de integraciones","Cloud & DevOps","Cloud, infraestructura y DevOps",Mid-level,2600,3650,3400,4200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+sysint,"Systems Integration Engineer","Ingeniero de integraciones","Cloud & DevOps","Cloud, infraestructura y DevOps",Senior,3400,5200,4400,6000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+cloudeng,"Cloud Engineer","Cloud Engineer","Cloud & DevOps","Cloud, infraestructura y DevOps",Junior,1850,2600,2400,3000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+cloudeng,"Cloud Engineer","Cloud Engineer","Cloud & DevOps","Cloud, infraestructura y DevOps",Mid-level,2850,4400,3700,5050,2027,https://www.interfell.com/en/salary-guide-latinamerica
+cloudeng,"Cloud Engineer","Cloud Engineer","Cloud & DevOps","Cloud, infraestructura y DevOps",Senior,4150,6750,5400,7750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+platform,"Platform Engineer","Platform Engineer","Cloud & DevOps","Cloud, infraestructura y DevOps",Junior,1550,2350,2000,2700,2027,https://www.interfell.com/en/salary-guide-latinamerica
+platform,"Platform Engineer","Platform Engineer","Cloud & DevOps","Cloud, infraestructura y DevOps",Mid-level,2850,4150,3700,4750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+platform,"Platform Engineer","Platform Engineer","Cloud & DevOps","Cloud, infraestructura y DevOps",Senior,3900,5700,5050,6550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+devops,"DevOps Engineer","DevOps","Cloud & DevOps","Cloud, infraestructura y DevOps",Junior,1800,2350,2350,2700,2027,https://www.interfell.com/en/salary-guide-latinamerica
+devops,"DevOps Engineer","DevOps","Cloud & DevOps","Cloud, infraestructura y DevOps",Mid-level,2850,3650,3700,4200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+devops,"DevOps Engineer","DevOps","Cloud & DevOps","Cloud, infraestructura y DevOps",Senior,3900,5700,5050,6550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+sre,"Site Reliability Engineer","SRE","Cloud & DevOps","Cloud, infraestructura y DevOps",Junior,1650,2300,2150,2650,2027,https://www.interfell.com/en/salary-guide-latinamerica
+sre,"Site Reliability Engineer","SRE","Cloud & DevOps","Cloud, infraestructura y DevOps",Mid-level,2850,4150,3700,4750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+sre,"Site Reliability Engineer","SRE","Cloud & DevOps","Cloud, infraestructura y DevOps",Senior,4150,6500,5400,7500,2027,https://www.interfell.com/en/salary-guide-latinamerica
+devsecops,"DevSecOps Engineer","DevSecOps","Cloud & DevOps","Cloud, infraestructura y DevOps",Junior,1850,2600,2400,3000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+devsecops,"DevSecOps Engineer","DevSecOps","Cloud & DevOps","Cloud, infraestructura y DevOps",Mid-level,2850,4150,3700,4750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+devsecops,"DevSecOps Engineer","DevSecOps","Cloud & DevOps","Cloud, infraestructura y DevOps",Senior,4150,6250,5400,7200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+secanalyst,"Cybersecurity Analyst","Analista de ciberseguridad","Cybersecurity & Risk","Ciberseguridad",Junior,1250,1800,1650,2050,2027,https://www.interfell.com/en/salary-guide-latinamerica
+secanalyst,"Cybersecurity Analyst","Analista de ciberseguridad","Cybersecurity & Risk","Ciberseguridad",Mid-level,1800,3100,2350,3550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+secanalyst,"Cybersecurity Analyst","Analista de ciberseguridad","Cybersecurity & Risk","Ciberseguridad",Senior,2850,4700,3700,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+seceng,"Cybersecurity Engineer","Ingeniero de ciberseguridad","Cybersecurity & Risk","Ciberseguridad",Junior,1650,2100,2150,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+seceng,"Cybersecurity Engineer","Ingeniero de ciberseguridad","Cybersecurity & Risk","Ciberseguridad",Mid-level,2600,3900,3400,4500,2027,https://www.interfell.com/en/salary-guide-latinamerica
+seceng,"Cybersecurity Engineer","Ingeniero de ciberseguridad","Cybersecurity & Risk","Ciberseguridad",Senior,3900,5700,5050,6550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+iam,"IAM Engineer","Ingeniero IAM","Cybersecurity & Risk","Ciberseguridad",Junior,1550,2100,2000,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+iam,"IAM Engineer","Ingeniero IAM","Cybersecurity & Risk","Ciberseguridad",Mid-level,2600,3900,3400,4500,2027,https://www.interfell.com/en/salary-guide-latinamerica
+iam,"IAM Engineer","Ingeniero IAM","Cybersecurity & Risk","Ciberseguridad",Senior,3650,5200,4750,6000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+cloudsec,"Cloud Security Engineer","Ingeniero de seguridad cloud","Cybersecurity & Risk","Ciberseguridad",Junior,1650,2350,2150,2700,2027,https://www.interfell.com/en/salary-guide-latinamerica
+cloudsec,"Cloud Security Engineer","Ingeniero de seguridad cloud","Cybersecurity & Risk","Ciberseguridad",Mid-level,2850,4700,3700,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+cloudsec,"Cloud Security Engineer","Ingeniero de seguridad cloud","Cybersecurity & Risk","Ciberseguridad",Senior,4150,6250,5400,7200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+pentest,"Penetration Tester","Pentester","Cybersecurity & Risk","Ciberseguridad",Junior,1550,2350,2000,2700,2027,https://www.interfell.com/en/salary-guide-latinamerica
+pentest,"Penetration Tester","Pentester","Cybersecurity & Risk","Ciberseguridad",Mid-level,2600,4700,3400,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+pentest,"Penetration Tester","Pentester","Cybersecurity & Risk","Ciberseguridad",Senior,3900,5700,5050,6550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+qamanual,"QA Analyst (Manual)","Analista QA manual","QA & Testing","QA y testing",Junior,1050,1550,1350,1800,2027,https://www.interfell.com/en/salary-guide-latinamerica
+qamanual,"QA Analyst (Manual)","Analista QA manual","QA & Testing","QA y testing",Mid-level,1450,2300,1900,2650,2027,https://www.interfell.com/en/salary-guide-latinamerica
+qamanual,"QA Analyst (Manual)","Analista QA manual","QA & Testing","QA y testing",Senior,2100,3100,2750,3550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+qaeng,"QA Engineer","Ingeniero QA","QA & Testing","QA y testing",Junior,1250,1800,1650,2050,2027,https://www.interfell.com/en/salary-guide-latinamerica
+qaeng,"QA Engineer","Ingeniero QA","QA & Testing","QA y testing",Mid-level,2100,2850,2750,3300,2027,https://www.interfell.com/en/salary-guide-latinamerica
+qaeng,"QA Engineer","Ingeniero QA","QA & Testing","QA y testing",Senior,2850,4150,3700,4750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+qaauto,"QA Automation Engineer","QA automation","QA & Testing","QA y testing",Junior,1850,2600,2400,3000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+qaauto,"QA Automation Engineer","QA automation","QA & Testing","QA y testing",Mid-level,2600,3900,3400,4500,2027,https://www.interfell.com/en/salary-guide-latinamerica
+qaauto,"QA Automation Engineer","QA automation","QA & Testing","QA y testing",Senior,3400,4950,4400,5700,2027,https://www.interfell.com/en/salary-guide-latinamerica
+perftest,"Performance Test Engineer","Performance tester","QA & Testing","QA y testing",Junior,1450,2350,1900,2700,2027,https://www.interfell.com/en/salary-guide-latinamerica
+perftest,"Performance Test Engineer","Performance tester","QA & Testing","QA y testing",Mid-level,2350,3650,3050,4200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+perftest,"Performance Test Engineer","Performance tester","QA & Testing","QA y testing",Senior,3100,4700,4050,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+autoeng,"Automation Engineer","Ingeniero de automatización","QA & Testing","QA y testing",Junior,1550,2300,2000,2650,2027,https://www.interfell.com/en/salary-guide-latinamerica
+autoeng,"Automation Engineer","Ingeniero de automatización","QA & Testing","QA y testing",Mid-level,2600,3650,3400,4200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+autoeng,"Automation Engineer","Ingeniero de automatización","QA & Testing","QA y testing",Senior,3650,5200,4750,6000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+po,"Product Owner","Product Owner","Product","Producto",Junior,1550,2100,2000,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+po,"Product Owner","Product Owner","Product","Producto",Mid-level,2350,3650,3050,4200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+po,"Product Owner","Product Owner","Product","Producto",Senior,3100,4400,4050,5050,2027,https://www.interfell.com/en/salary-guide-latinamerica
+pm,"Product Manager","Product Manager","Product","Producto",Junior,1550,2350,2000,2700,2027,https://www.interfell.com/en/salary-guide-latinamerica
+pm,"Product Manager","Product Manager","Product","Producto",Mid-level,2350,3900,3050,4500,2027,https://www.interfell.com/en/salary-guide-latinamerica
+pm,"Product Manager","Product Manager","Product","Producto",Senior,3650,5200,4750,6000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+datapm,"Data Product Manager","Data Product Manager","Product","Producto",Junior,1450,2350,1900,2700,2027,https://www.interfell.com/en/salary-guide-latinamerica
+datapm,"Data Product Manager","Data Product Manager","Product","Producto",Mid-level,2350,4150,3050,4750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+datapm,"Data Product Manager","Data Product Manager","Product","Producto",Senior,3900,5200,5050,6000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+aipm,"AI Product Manager","AI Product Manager","Product","Producto",Junior,1550,2600,2000,3000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+aipm,"AI Product Manager","AI Product Manager","Product","Producto",Mid-level,3100,4400,4050,5050,2027,https://www.interfell.com/en/salary-guide-latinamerica
+aipm,"AI Product Manager","AI Product Manager","Product","Producto",Senior,3650,5200,4750,6000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+proddesigner,"Product Designer","Product Designer","Product","Producto",Junior,1550,2100,2000,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+proddesigner,"Product Designer","Product Designer","Product","Producto",Mid-level,2100,3400,2750,3900,2027,https://www.interfell.com/en/salary-guide-latinamerica
+proddesigner,"Product Designer","Product Designer","Product","Producto",Senior,2850,4400,3700,5050,2027,https://www.interfell.com/en/salary-guide-latinamerica
+community,"Community Manager","Community manager","Marketing & Growth","Marketing y growth",Junior,800,1250,1050,1450,2027,https://www.interfell.com/en/salary-guide-latinamerica
+community,"Community Manager","Community manager","Marketing & Growth","Marketing y growth",Mid-level,1250,2100,1650,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+community,"Community Manager","Community manager","Marketing & Growth","Marketing y growth",Senior,1850,2850,2400,3300,2027,https://www.interfell.com/en/salary-guide-latinamerica
+social,"Social Media Manager","Social media manager","Marketing & Growth","Marketing y growth",Junior,1050,1550,1350,1800,2027,https://www.interfell.com/en/salary-guide-latinamerica
+social,"Social Media Manager","Social media manager","Marketing & Growth","Marketing y growth",Mid-level,1550,2350,2000,2700,2027,https://www.interfell.com/en/salary-guide-latinamerica
+social,"Social Media Manager","Social media manager","Marketing & Growth","Marketing y growth",Senior,2100,3650,2750,4200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+paidsocial,"Paid Social Specialist","Especialista en paid social","Marketing & Growth","Marketing y growth",Junior,1250,2300,1650,2650,2027,https://www.interfell.com/en/salary-guide-latinamerica
+paidsocial,"Paid Social Specialist","Especialista en paid social","Marketing & Growth","Marketing y growth",Mid-level,1800,3100,2350,3550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+paidsocial,"Paid Social Specialist","Especialista en paid social","Marketing & Growth","Marketing y growth",Senior,2850,3900,3700,4500,2027,https://www.interfell.com/en/salary-guide-latinamerica
+seo,"SEO Specialist","Especialista SEO","Marketing & Growth","Marketing y growth",Junior,1050,1850,1350,2150,2027,https://www.interfell.com/en/salary-guide-latinamerica
+seo,"SEO Specialist","Especialista SEO","Marketing & Growth","Marketing y growth",Mid-level,1800,3100,2350,3550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+seo,"SEO Specialist","Especialista SEO","Marketing & Growth","Marketing y growth",Senior,2600,3900,3400,4500,2027,https://www.interfell.com/en/salary-guide-latinamerica
+content,"Content Marketing Specialist","Especialista en marketing de contenidos","Marketing & Growth","Marketing y growth",Junior,1050,1650,1350,1900,2027,https://www.interfell.com/en/salary-guide-latinamerica
+content,"Content Marketing Specialist","Especialista en marketing de contenidos","Marketing & Growth","Marketing y growth",Mid-level,1550,2600,2000,3000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+content,"Content Marketing Specialist","Especialista en marketing de contenidos","Marketing & Growth","Marketing y growth",Senior,2100,3650,2750,4200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+email,"Email Marketing Manager","Especialista en email marketing","Marketing & Growth","Marketing y growth",Junior,1250,2100,1650,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+email,"Email Marketing Manager","Especialista en email marketing","Marketing & Growth","Marketing y growth",Mid-level,1850,3100,2400,3550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+email,"Email Marketing Manager","Especialista en email marketing","Marketing & Growth","Marketing y growth",Senior,2600,3900,3400,4500,2027,https://www.interfell.com/en/salary-guide-latinamerica
+cro,"CRO Specialist","Especialista CRO","Marketing & Growth","Marketing y growth",Junior,1450,2350,1900,2700,2027,https://www.interfell.com/en/salary-guide-latinamerica
+cro,"CRO Specialist","Especialista CRO","Marketing & Growth","Marketing y growth",Mid-level,2350,3650,3050,4200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+cro,"CRO Specialist","Especialista CRO","Marketing & Growth","Marketing y growth",Senior,3100,4400,4050,5050,2027,https://www.interfell.com/en/salary-guide-latinamerica
+mktops,"Marketing Operations Specialist","Especialista en marketing operations","Marketing & Growth","Marketing y growth",Junior,1250,2100,1650,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+mktops,"Marketing Operations Specialist","Especialista en marketing operations","Marketing & Growth","Marketing y growth",Mid-level,1800,3100,2350,3550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+mktops,"Marketing Operations Specialist","Especialista en marketing operations","Marketing & Growth","Marketing y growth",Senior,2850,4150,3700,4750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+digitalmkt,"Digital Marketing Manager","Responsable de marketing digital","Marketing & Growth","Marketing y growth",Junior,1650,2350,2150,2700,2027,https://www.interfell.com/en/salary-guide-latinamerica
+digitalmkt,"Digital Marketing Manager","Responsable de marketing digital","Marketing & Growth","Marketing y growth",Mid-level,2350,3650,3050,4200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+digitalmkt,"Digital Marketing Manager","Responsable de marketing digital","Marketing & Growth","Marketing y growth",Senior,2850,4700,3700,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+growth,"Growth Marketer","Growth marketer","Marketing & Growth","Marketing y growth",Junior,1550,2100,2000,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+growth,"Growth Marketer","Growth marketer","Marketing & Growth","Marketing y growth",Mid-level,2350,3400,3050,3900,2027,https://www.interfell.com/en/salary-guide-latinamerica
+growth,"Growth Marketer","Growth marketer","Marketing & Growth","Marketing y growth",Senior,3650,4400,4750,5050,2027,https://www.interfell.com/en/salary-guide-latinamerica
+graphic,"Graphic Designer","Diseñador gráfico","Design & UX","Diseño y UX",Junior,1250,1850,1650,2150,2027,https://www.interfell.com/en/salary-guide-latinamerica
+graphic,"Graphic Designer","Diseñador gráfico","Design & UX","Diseño y UX",Mid-level,1800,2850,2350,3300,2027,https://www.interfell.com/en/salary-guide-latinamerica
+graphic,"Graphic Designer","Diseñador gráfico","Design & UX","Diseño y UX",Senior,2350,4150,3050,4750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+motion,"Motion Designer","Motion designer","Design & UX","Diseño y UX",Junior,1250,1850,1650,2150,2027,https://www.interfell.com/en/salary-guide-latinamerica
+motion,"Motion Designer","Motion designer","Design & UX","Diseño y UX",Mid-level,2100,2850,2750,3300,2027,https://www.interfell.com/en/salary-guide-latinamerica
+motion,"Motion Designer","Motion designer","Design & UX","Diseño y UX",Senior,3100,4700,4050,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+uxui,"UX/UI Designer","Diseñador UX/UI","Design & UX","Diseño y UX",Junior,1450,2100,1900,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+uxui,"UX/UI Designer","Diseñador UX/UI","Design & UX","Diseño y UX",Mid-level,2100,3100,2750,3550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+uxui,"UX/UI Designer","Diseñador UX/UI","Design & UX","Diseño y UX",Senior,3100,4700,4050,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+uxr,"UX Researcher","UX researcher","Design & UX","Diseño y UX",Junior,1450,1850,1900,2150,2027,https://www.interfell.com/en/salary-guide-latinamerica
+uxr,"UX Researcher","UX researcher","Design & UX","Diseño y UX",Mid-level,2100,2850,2750,3300,2027,https://www.interfell.com/en/salary-guide-latinamerica
+uxr,"UX Researcher","UX researcher","Design & UX","Diseño y UX",Senior,2600,4150,3400,4750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+uxwriter,"UX Writer / Content Designer","UX writer","Design & UX","Diseño y UX",Junior,1250,2100,1650,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+uxwriter,"UX Writer / Content Designer","UX writer","Design & UX","Diseño y UX",Mid-level,2100,3400,2750,3900,2027,https://www.interfell.com/en/salary-guide-latinamerica
+uxwriter,"UX Writer / Content Designer","UX writer","Design & UX","Diseño y UX",Senior,2600,4150,3400,4750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+swtrainer,"Software Trainer","Formador de software","Business Systems","Sistemas de negocio",Junior,1550,2300,2000,2650,2027,https://www.interfell.com/en/salary-guide-latinamerica
+swtrainer,"Software Trainer","Formador de software","Business Systems","Sistemas de negocio",Mid-level,2100,3650,2750,4200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+swtrainer,"Software Trainer","Formador de software","Business Systems","Sistemas de negocio",Senior,3100,4700,4050,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+implspec,"Implementation Specialist (SaaS)","Especialista en implementación SaaS","Business Systems","Sistemas de negocio",Junior,1550,2300,2000,2650,2027,https://www.interfell.com/en/salary-guide-latinamerica
+implspec,"Implementation Specialist (SaaS)","Especialista en implementación SaaS","Business Systems","Sistemas de negocio",Mid-level,2100,3650,2750,4200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+implspec,"Implementation Specialist (SaaS)","Especialista en implementación SaaS","Business Systems","Sistemas de negocio",Senior,3400,4700,4400,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+crmadmin,"CRM Administrator","Administrador CRM","Business Systems","Sistemas de negocio",Junior,1150,1800,1500,2050,2027,https://www.interfell.com/en/salary-guide-latinamerica
+crmadmin,"CRM Administrator","Administrador CRM","Business Systems","Sistemas de negocio",Mid-level,2100,3100,2750,3550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+crmadmin,"CRM Administrator","Administrador CRM","Business Systems","Sistemas de negocio",Senior,2850,4150,3700,4750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+crmdev,"CRM Developer","Desarrollador CRM","Business Systems","Sistemas de negocio",Junior,1300,2100,1700,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+crmdev,"CRM Developer","Desarrollador CRM","Business Systems","Sistemas de negocio",Mid-level,2600,3650,3400,4200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+crmdev,"CRM Developer","Desarrollador CRM","Business Systems","Sistemas de negocio",Senior,3400,4700,4400,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+ecomadmin,"E-commerce Administrator","Administrador e-commerce","Business Systems","Sistemas de negocio",Junior,1250,1800,1650,2050,2027,https://www.interfell.com/en/salary-guide-latinamerica
+ecomadmin,"E-commerce Administrator","Administrador e-commerce","Business Systems","Sistemas de negocio",Mid-level,1800,2600,2350,3000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+ecomadmin,"E-commerce Administrator","Administrador e-commerce","Business Systems","Sistemas de negocio",Senior,2600,3900,3400,4500,2027,https://www.interfell.com/en/salary-guide-latinamerica
+ecomdev,"E-commerce Developer","Desarrollador e-commerce","Business Systems","Sistemas de negocio",Junior,1550,2100,2000,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+ecomdev,"E-commerce Developer","Desarrollador e-commerce","Business Systems","Sistemas de negocio",Mid-level,2350,3650,3050,4200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+ecomdev,"E-commerce Developer","Desarrollador e-commerce","Business Systems","Sistemas de negocio",Senior,3400,4700,4400,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+bsa,"Business Systems Analyst","Analista de sistemas de negocio","Business Systems","Sistemas de negocio",Junior,1450,1850,1900,2150,2027,https://www.interfell.com/en/salary-guide-latinamerica
+bsa,"Business Systems Analyst","Analista de sistemas de negocio","Business Systems","Sistemas de negocio",Mid-level,2100,3100,2750,3550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+bsa,"Business Systems Analyst","Analista de sistemas de negocio","Business Systems","Sistemas de negocio",Senior,3100,4700,4050,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+bsm,"Business Systems Manager","Responsable de sistemas de negocio","Business Systems","Sistemas de negocio",Junior,1550,2600,2000,3000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+bsm,"Business Systems Manager","Responsable de sistemas de negocio","Business Systems","Sistemas de negocio",Mid-level,2350,3900,3050,4500,2027,https://www.interfell.com/en/salary-guide-latinamerica
+bsm,"Business Systems Manager","Responsable de sistemas de negocio","Business Systems","Sistemas de negocio",Senior,3650,5200,4750,6000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+sdr,"Sales Development Representative (SDR)","SDR (Sales Development Representative)","Sales & Operations","Ventas y operaciones",Junior,750,1050,1000,1200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+sdr,"Sales Development Representative (SDR)","SDR (Sales Development Representative)","Sales & Operations","Ventas y operaciones",Mid-level,950,1550,1250,1800,2027,https://www.interfell.com/en/salary-guide-latinamerica
+sdr,"Sales Development Representative (SDR)","SDR (Sales Development Representative)","Sales & Operations","Ventas y operaciones",Senior,1250,2100,1650,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+bdr,"Business Developer / Account Executive","Account executive","Sales & Operations","Ventas y operaciones",Junior,1050,1800,1350,2050,2027,https://www.interfell.com/en/salary-guide-latinamerica
+bdr,"Business Developer / Account Executive","Account executive","Sales & Operations","Ventas y operaciones",Mid-level,1450,2300,1900,2650,2027,https://www.interfell.com/en/salary-guide-latinamerica
+bdr,"Business Developer / Account Executive","Account executive","Sales & Operations","Ventas y operaciones",Senior,2100,3100,2750,3550,2027,https://www.interfell.com/en/salary-guide-latinamerica
+saleseng,"Sales Engineer","Sales engineer","Sales & Operations","Ventas y operaciones",Junior,1550,2600,2000,3000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+saleseng,"Sales Engineer","Sales engineer","Sales & Operations","Ventas y operaciones",Mid-level,2600,3900,3400,4500,2027,https://www.interfell.com/en/salary-guide-latinamerica
+saleseng,"Sales Engineer","Sales engineer","Sales & Operations","Ventas y operaciones",Senior,3650,4950,4750,5700,2027,https://www.interfell.com/en/salary-guide-latinamerica
+am,"Account Manager","Account manager","Sales & Operations","Ventas y operaciones",Junior,1250,2100,1650,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+am,"Account Manager","Account manager","Sales & Operations","Ventas y operaciones",Mid-level,1650,2850,2150,3300,2027,https://www.interfell.com/en/salary-guide-latinamerica
+am,"Account Manager","Account manager","Sales & Operations","Ventas y operaciones",Senior,2350,4150,3050,4750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+salesmgr,"Sales Manager","Gerente de ventas","Sales & Operations","Ventas y operaciones",Junior,1300,2100,1700,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+salesmgr,"Sales Manager","Gerente de ventas","Sales & Operations","Ventas y operaciones",Mid-level,1650,2850,2150,3300,2027,https://www.interfell.com/en/salary-guide-latinamerica
+salesmgr,"Sales Manager","Gerente de ventas","Sales & Operations","Ventas y operaciones",Senior,2100,4150,2750,4750,2027,https://www.interfell.com/en/salary-guide-latinamerica
+csm,"Customer Success Manager","Customer Success Manager","Sales & Operations","Ventas y operaciones",Junior,1550,2600,2000,3000,2027,https://www.interfell.com/en/salary-guide-latinamerica
+csm,"Customer Success Manager","Customer Success Manager","Sales & Operations","Ventas y operaciones",Mid-level,2100,3900,2750,4500,2027,https://www.interfell.com/en/salary-guide-latinamerica
+csm,"Customer Success Manager","Customer Success Manager","Sales & Operations","Ventas y operaciones",Senior,2600,4950,3400,5700,2027,https://www.interfell.com/en/salary-guide-latinamerica
+va,"Virtual Assistant","Asistente virtual","Sales & Operations","Ventas y operaciones",Junior,750,1250,1000,1450,2027,https://www.interfell.com/en/salary-guide-latinamerica
+va,"Virtual Assistant","Asistente virtual","Sales & Operations","Ventas y operaciones",Mid-level,950,1550,1250,1800,2027,https://www.interfell.com/en/salary-guide-latinamerica
+va,"Virtual Assistant","Asistente virtual","Sales & Operations","Ventas y operaciones",Senior,1250,1850,1650,2150,2027,https://www.interfell.com/en/salary-guide-latinamerica
+pjm,"Project Manager","Project manager","Sales & Operations","Ventas y operaciones",Junior,1050,2100,1350,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+pjm,"Project Manager","Project manager","Sales & Operations","Ventas y operaciones",Mid-level,1650,3400,2150,3900,2027,https://www.interfell.com/en/salary-guide-latinamerica
+pjm,"Project Manager","Project manager","Sales & Operations","Ventas y operaciones",Senior,2350,4700,3050,5400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+opsmgr,"Operations Manager","Gerente de operaciones","Sales & Operations","Ventas y operaciones",Junior,1300,2100,1700,2400,2027,https://www.interfell.com/en/salary-guide-latinamerica
+opsmgr,"Operations Manager","Gerente de operaciones","Sales & Operations","Ventas y operaciones",Mid-level,1800,3650,2350,4200,2027,https://www.interfell.com/en/salary-guide-latinamerica
+opsmgr,"Operations Manager","Gerente de operaciones","Sales & Operations","Ventas y operaciones",Senior,3100,5200,4050,6000,2027,https://www.interfell.com/en/salary-guide-latinamerica
